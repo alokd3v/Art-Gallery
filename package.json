@@ -1,0 +1,20 @@
+{
+  "name": "project-major",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alok951/Art-Gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alok951/Art-Gallery/issues"
+  },
+  "homepage": "https://github.com/Alok951/Art-Gallery#readme"
+}
